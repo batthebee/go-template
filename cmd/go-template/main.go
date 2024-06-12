@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/ci4rail/go-template/internal/log"
+	"github.com/batthebee/go-template/internal/log"
 	"go.uber.org/zap"
 
 	// This controls the maxprocs environment variable in container runtimes.
